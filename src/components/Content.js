@@ -61,7 +61,12 @@ const Content = () => {
                         size="small"
                         sx={{ backgroundColor: "#1a1717", color: "white" }}
                       >
-                        Download here
+                        <a
+                          href="https://youtu.be/CFu8Z5tbC0U?si=4-TEWbxsFMbNFg72"
+                          target="_blank"
+                        >
+                          Download here
+                        </a>
                       </Button>
                     </CardActions>
                   </Card>
